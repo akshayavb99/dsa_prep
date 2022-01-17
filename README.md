@@ -14,6 +14,9 @@ Practice Problems <br>
 3. [Leetcode Problem 1089 - Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)<br>
    [Best solution in Python3 for Problem 1089](https://leetcode.com/problems/duplicate-zeros/discuss/322576/Python-3-real-in-place-solution)<br>
 4. [Leetcode Problem 88 - Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)<br>
+5. [Leetcode Proble 1346 - Check if N and its Double exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)<br>
+6. [Leetcode Problem 941 - Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)<br>
+7. [Leetcode Problem 1299 - Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)<br>
 
 Strings <br>
 Practice Problems <br>
