@@ -17,6 +17,9 @@ Practice Problems <br>
 5. [Leetcode Proble 1346 - Check if N and its Double exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)<br>
 6. [Leetcode Problem 941 - Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)<br>
 7. [Leetcode Problem 1299 - Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)<br>
+8. [Leetcode Problem 283 - Move Zeros](https://leetcode.com/problems/move-zeroes/)<br>
+9. [Leetcode Problem 905 - Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/)
+10. [Leetcode Problem 1051 - Height Checker](https://leetcode.com/problems/height-checker/) 
 
 Strings <br>
 Practice Problems <br>
