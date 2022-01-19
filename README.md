@@ -19,7 +19,17 @@ Practice Problems <br>
 7. [Leetcode Problem 1299 - Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)<br>
 8. [Leetcode Problem 283 - Move Zeros](https://leetcode.com/problems/move-zeroes/)<br>
 9. [Leetcode Problem 905 - Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/)
-10. [Leetcode Problem 1051 - Height Checker](https://leetcode.com/problems/height-checker/) 
+10. [Leetcode Problem 1051 - Height Checker](https://leetcode.com/problems/height-checker/)<br>
+11. [Leetcode Problem 414 - Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)<br>
+    [Solution without using sets](https://leetcode.com/problems/third-maximum-number/discuss/1461970/Simple-Python-O(n)-three-pointer-solution)<br>
+12. [Leetcode Problem 448 - Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)<br>
+13. [Leetcode Problem 724 - Find pivot index](https://leetcode.com/problems/find-pivot-index/)<br>
+    [Similar Problem - Leetcode Problem 1991 - Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)<br>
+14. [Leetcode Problem 747 - Largest Number at least twice of others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)<br>
+15. [Leetcode Problem 66 - Plus One](https://leetcode.com/problems/plus-one/)<br>
+    [Solution without adding digits from last place](https://leetcode.com/problems/plus-one/discuss/438791/Recursive-Python-solution-(98.87-Speed-100-Memory))<br>
+16. [Leetcode Problem 498 - Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)<br>
+17. 
 
 Strings <br>
 Practice Problems <br>
