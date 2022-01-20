@@ -29,13 +29,23 @@ Practice Problems <br>
 15. [Leetcode Problem 66 - Plus One](https://leetcode.com/problems/plus-one/)<br>
     [Solution without adding digits from last place](https://leetcode.com/problems/plus-one/discuss/438791/Recursive-Python-solution-(98.87-Speed-100-Memory))<br>
 16. [Leetcode Problem 498 - Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)<br>
-17. 
+17. [Leetcode Problem 54 - Spiral Matrix <b>(Medium)</b>](https://leetcode.com/problems/spiral-matrix/)<br>
+18. [Leetcode Problem 118 - Pascal's Triangle <b>(Easy)</b>](https://leetcode.com/problems/pascals-triangle/)<br>
+19. [Leetcode Problem 561 - Array Partition I <b>(Easy)</b>](https://leetcode.com/problems/array-partition-i/)<br>
+20. [Leetcode Problem 167 - Two Sum II - Input Array is Sorted <b>(Easy)</b>](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)<br>
+21. [Leetcode Problem 27 - Remove Element <b>(Easy)</b>](https://leetcode.com/problems/remove-element/)
+22. [Leetcode Problem 14 - Longest Common Prefix <b>(Easy)</b>](https://leetcode.com/problems/longest-common-prefix/)
+23. 
 
 Strings <br>
 Practice Problems <br>
 1. [Leetcode Problem 696 - Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)<br>
    [Best explanation for Problem 696](https://leetcode.com/problems/count-binary-substrings/discuss/1172569/Short-and-Easy-w-Explanation-and-Comments-or-Keeping-Consecutive-0s-and-1s-Count-or-Beats-100)<br>
-2. 
+2. [Leetcode Problem 67 - Add Binary <b>(Easy)</b>](https://leetcode.com/problems/add-binary/)<br>
+    [Video Explanation for simple summation using bitwise operators](https://www.youtube.com/watch?v=qq64FrA2UXQ)<br>
+3. [Leetcode Problem 28 - Implement strStr() <b>(Easy)</b>](https://leetcode.com/problems/implement-strstr/)<br>
+4. [Leetcode Problem 344 - Reverse String <b>(Easy)</b>](https://leetcode.com/problems/reverse-string/)<br>
+5. 
 
 Dynamic Programming
 Conceptual Resources <br>
