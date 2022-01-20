@@ -33,9 +33,11 @@ Practice Problems <br>
 18. [Leetcode Problem 118 - Pascal's Triangle <b>(Easy)</b>](https://leetcode.com/problems/pascals-triangle/)<br>
 19. [Leetcode Problem 561 - Array Partition I <b>(Easy)</b>](https://leetcode.com/problems/array-partition-i/)<br>
 20. [Leetcode Problem 167 - Two Sum II - Input Array is Sorted <b>(Easy)</b>](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)<br>
-21. [Leetcode Problem 27 - Remove Element <b>(Easy)</b>](https://leetcode.com/problems/remove-element/)
-22. [Leetcode Problem 14 - Longest Common Prefix <b>(Easy)</b>](https://leetcode.com/problems/longest-common-prefix/)
-23. 
+21. [Leetcode Problem 27 - Remove Element <b>(Easy)</b>](https://leetcode.com/problems/remove-element/)<br>
+22. [Leetcode Problem 14 - Longest Common Prefix <b>(Easy) (Seems harder than other easy problems)</b>](https://leetcode.com/problems/longest-common-prefix/)<br>
+23. [Leetcode Problem 189 - Rotate Array <b>(Medium)</b>](https://leetcode.com/problems/rotate-array/)<br>
+24. [Leetcode Problem 151 - Reverse Words in a String <b>(Medium)</b>](https://leetcode.com/problems/reverse-words-in-a-string/)<br>
+    [Solution without using in-built functions like trim, reverse etc.](https://leetcode.com/problems/reverse-words-in-a-string/discuss/1618323/Clean-Python-O(n)-solution-without-using-split-join-strip-slice-etc)<br>
 
 Strings <br>
 Practice Problems <br>
