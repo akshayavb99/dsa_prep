@@ -47,7 +47,16 @@ Practice Problems <br>
     [Video Explanation for simple summation using bitwise operators](https://www.youtube.com/watch?v=qq64FrA2UXQ)<br>
 3. [Leetcode Problem 28 - Implement strStr() <b>(Easy)</b>](https://leetcode.com/problems/implement-strstr/)<br>
 4. [Leetcode Problem 344 - Reverse String <b>(Easy)</b>](https://leetcode.com/problems/reverse-string/)<br>
-5. 
+5. <br>
+
+Recursion <br>
+Practice Problems <br>
+
+Linked Lists <br>
+Practice Problems <br>
+1. [Leetcode Problem 707 - Design Linked List <b>(Medium) (Can be designed as singly-linked or doubly-linked)</b>](https://leetcode.com/problems/design-linked-list/)<br>
+2. [Leetcode Problem 141 - Linked List Cycle <b>(Easy)</b>](https://leetcode.com/problems/linked-list-cycle/)<br>
+3. 
 
 Dynamic Programming
 Conceptual Resources <br>
