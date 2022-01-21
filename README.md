@@ -36,8 +36,7 @@ Practice Problems <br>
 21. [Leetcode Problem 27 - Remove Element <b>(Easy)</b>](https://leetcode.com/problems/remove-element/)<br>
 22. [Leetcode Problem 14 - Longest Common Prefix <b>(Easy) (Seems harder than other easy problems)</b>](https://leetcode.com/problems/longest-common-prefix/)<br>
 23. [Leetcode Problem 189 - Rotate Array <b>(Medium)</b>](https://leetcode.com/problems/rotate-array/)<br>
-24. [Leetcode Problem 151 - Reverse Words in a String <b>(Medium)</b>](https://leetcode.com/problems/reverse-words-in-a-string/)<br>
-    [Solution without using in-built functions like trim, reverse etc.](https://leetcode.com/problems/reverse-words-in-a-string/discuss/1618323/Clean-Python-O(n)-solution-without-using-split-join-strip-slice-etc)<br>
+24. 
 
 Strings <br>
 Practice Problems <br>
@@ -47,10 +46,14 @@ Practice Problems <br>
     [Video Explanation for simple summation using bitwise operators](https://www.youtube.com/watch?v=qq64FrA2UXQ)<br>
 3. [Leetcode Problem 28 - Implement strStr() <b>(Easy)</b>](https://leetcode.com/problems/implement-strstr/)<br>
 4. [Leetcode Problem 344 - Reverse String <b>(Easy)</b>](https://leetcode.com/problems/reverse-string/)<br>
-5. <br>
+5. [Leetcode Problem 151 - Reverse Words in a String <b>(Medium)</b>](https://leetcode.com/problems/reverse-words-in-a-string/)<br>
+   [Solution without using in-built functions like trim, reverse etc.](https://leetcode.com/problems/reverse-words-in-a-string/discuss/1618323/Clean-Python-O(n)-solution-without-using-split-join-strip-slice-etc)<br>
 
 Recursion <br>
 Practice Problems <br>
+1. [Leetcode Problem 509 - Fibonacci Number <b>(Easy) (Solved using Memoisation)</b>](https://leetcode.com/problems/fibonacci-number/)<br>
+2. [Leetcode Problem 70 - Climbing Stairs <b>(Easy) (Same concept as Fibonacci, so same solutions can be used)</b>](https://leetcode.com/problems/climbing-stairs/)<br>
+3. 
 
 Linked Lists <br>
 Practice Problems <br>
@@ -59,6 +62,8 @@ Practice Problems <br>
 3. [Leetcode Problem 142 - Linked List Cycle II <b>(Medium) (Read Floyd's Slow and Fast Pointer Approach)</b>](https://leetcode.com/problems/linked-list-cycle-ii/)<br>
 4. [Leetcode Problem 160 - Intersection of Linked Lists <b>(Easy)</b>](https://leetcode.com/problems/intersection-of-two-linked-lists/)<br>
    [Another way to solve Problem - Concatenate list A and list B, if there's an intersection, there's a loop](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/49798/Concise-python-code-with-comments)<br>
+5. [Leetcode Problem 19 - Remove Nth Node from End of List <b>(Medium)</b>](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)<br>
+6. 
 
 Dynamic Programming
 Conceptual Resources <br>
