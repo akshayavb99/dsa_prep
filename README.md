@@ -55,8 +55,10 @@ Practice Problems <br>
 Linked Lists <br>
 Practice Problems <br>
 1. [Leetcode Problem 707 - Design Linked List <b>(Medium) (Can be designed as singly-linked or doubly-linked)</b>](https://leetcode.com/problems/design-linked-list/)<br>
-2. [Leetcode Problem 141 - Linked List Cycle <b>(Easy)</b>](https://leetcode.com/problems/linked-list-cycle/)<br>
-3. 
+2. [Leetcode Problem 141 - Linked List Cycle <b>(Easy) (Read Floyd's Slow and Fast Pointer Approach)</b>](https://leetcode.com/problems/linked-list-cycle/)<br>
+3. [Leetcode Problem 142 - Linked List Cycle II <b>(Medium) (Read Floyd's Slow and Fast Pointer Approach)</b>](https://leetcode.com/problems/linked-list-cycle-ii/)<br>
+4. [Leetcode Problem 160 - Intersection of Linked Lists <b>(Easy)</b>](https://leetcode.com/problems/intersection-of-two-linked-lists/)<br>
+   [Another way to solve Problem - Concatenate list A and list B, if there's an intersection, there's a loop](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/49798/Concise-python-code-with-comments)<br>
 
 Dynamic Programming
 Conceptual Resources <br>
