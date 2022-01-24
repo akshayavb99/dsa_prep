@@ -23,7 +23,8 @@ Practice Problems <br>
 11. [Leetcode Problem 414 - Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)<br>
     [Solution without using sets](https://leetcode.com/problems/third-maximum-number/discuss/1461970/Simple-Python-O(n)-three-pointer-solution)<br>
 12. [Leetcode Problem 448 - Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)<br>
-13. [Leetcode Problem 724 - Find pivot index](https://leetcode.com/problems/find-pivot-index/)<br>
+    [Explanation of Solution for Problem 448](https://www.tutorialcup.com/leetcode-solutions/find-all-numbers-disappeared-in-an-array-leetcode-solution.htm)
+14. [Leetcode Problem 724 - Find pivot index](https://leetcode.com/problems/find-pivot-index/)<br>
     [Similar Problem - Leetcode Problem 1991 - Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)<br>
 14. [Leetcode Problem 747 - Largest Number at least twice of others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)<br>
 15. [Leetcode Problem 66 - Plus One](https://leetcode.com/problems/plus-one/)<br>
@@ -36,7 +37,10 @@ Practice Problems <br>
 21. [Leetcode Problem 27 - Remove Element <b>(Easy)</b>](https://leetcode.com/problems/remove-element/)<br>
 22. [Leetcode Problem 14 - Longest Common Prefix <b>(Easy) (Seems harder than other easy problems)</b>](https://leetcode.com/problems/longest-common-prefix/)<br>
 23. [Leetcode Problem 189 - Rotate Array <b>(Medium)</b>](https://leetcode.com/problems/rotate-array/)<br>
-24. 
+24. [Leetcode Problem 16 - 3Sum Closest <b>(Medium)</b>](https://leetcode.com/problems/3sum-closest/)<br>
+    <b>Related questions - 3Sum, 3Sum Smaller</b><br>
+25. [Leetcode Problem 56 - Merge Intervals <b>(Medium)</b>](https://leetcode.com/problems/merge-intervals/)<br>
+26. 
 
 Strings <br>
 Practice Problems <br>
@@ -53,7 +57,9 @@ Recursion <br>
 Practice Problems <br>
 1. [Leetcode Problem 509 - Fibonacci Number <b>(Easy) (Solved using Memoisation)</b>](https://leetcode.com/problems/fibonacci-number/)<br>
 2. [Leetcode Problem 70 - Climbing Stairs <b>(Easy) (Same concept as Fibonacci, so same solutions can be used)</b>](https://leetcode.com/problems/climbing-stairs/)<br>
-3. 
+3. [Leetcode Problem 206 - Reverse Linked List <b>(Easy) (Also a problem for Linked Lists)</b>](https://leetcode.com/problems/reverse-linked-list/)</br>
+4. [Leetcode Problem - Pascal's Triangle II <b>(Easy)</b>](https://leetcode.com/problems/pascals-triangle-ii/)<br>
+5. 
 
 Linked Lists <br>
 Practice Problems <br>
