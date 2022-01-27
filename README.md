@@ -40,7 +40,8 @@ Practice Problems <br>
 24. [Leetcode Problem 16 - 3Sum Closest <b>(Medium)</b>](https://leetcode.com/problems/3sum-closest/)<br>
     <b>Related questions - 3Sum, 3Sum Smaller</b><br>
 25. [Leetcode Problem 56 - Merge Intervals <b>(Medium)</b>](https://leetcode.com/problems/merge-intervals/)<br>
-26. 
+26. [Leetcode Problem 79 - Word Search <b>(Medium)</b>](https://leetcode.com/problems/word-search/)</br>
+27. 
 
 Strings <br>
 Practice Problems <br>
