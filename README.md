@@ -70,7 +70,17 @@ Practice Problems <br>
 4. [Leetcode Problem 160 - Intersection of Linked Lists <b>(Easy)</b>](https://leetcode.com/problems/intersection-of-two-linked-lists/)<br>
    [Another way to solve Problem - Concatenate list A and list B, if there's an intersection, there's a loop](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/49798/Concise-python-code-with-comments)<br>
 5. [Leetcode Problem 19 - Remove Nth Node from End of List <b>(Medium)</b>](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)<br>
-6. 
+
+
+HashMaps <br>
+Practice Problems <br>
+1. [Leetcode Problem 205 - Isomorphic String <b>(Easy)</b>](https://leetcode.com/problems/isomorphic-strings/)<br>
+   [Check out more variations of the problem here!](https://leetcode.com/problems/isomorphic-strings/discuss/57941/Python-different-solutions-(dictionary-etc))<br>
+2. [Leetcode Problem 359 - Logger Rate Limiter <b>(Easy)</b>](https://leetcode.com/problems/logger-rate-limiter/) <br>
+   [Different Approaches for Memory Optimization discussed here](https://leetcode.com/problems/logger-rate-limiter/discuss/391558/Review-of-four-different-solutions%3A-HashMap-Two-Sets-Queue-with-Set-Radix-buckets-(Java-centric)) <br>
+3. [Leetcode Problem 49 - Group Anagrams <b>(Medium)</b>](https://leetcode.com/problems/group-anagrams/)<br>
+4. [Leetcode Problem 249 - Group Shifted String <b>(Medium)</b>](https://leetcode.com/problems/group-shifted-strings/)<br>
+5. 
 
 Dynamic Programming
 Conceptual Resources <br>
