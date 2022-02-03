@@ -80,7 +80,11 @@ Practice Problems <br>
    [Different Approaches for Memory Optimization discussed here](https://leetcode.com/problems/logger-rate-limiter/discuss/391558/Review-of-four-different-solutions%3A-HashMap-Two-Sets-Queue-with-Set-Radix-buckets-(Java-centric)) <br>
 3. [Leetcode Problem 49 - Group Anagrams <b>(Medium)</b>](https://leetcode.com/problems/group-anagrams/)<br>
 4. [Leetcode Problem 249 - Group Shifted String <b>(Medium)</b>](https://leetcode.com/problems/group-shifted-strings/)<br>
-5. 
+5. [Leetcode Problem 36 - Valid Sudoku <b>(Medium)</b>](https://leetcode.com/problems/valid-sudoku/)<br>
+   [To know more about bit manipulation](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)<br>
+6. [Leetcode Problem 771 - Jewels and Stones <b>(Medium)</b>](https://leetcode.com/problems/jewels-and-stones/)<br>
+   Can be solved simply with arrays also<br>
+7. 
 
 Dynamic Programming
 Conceptual Resources <br>
