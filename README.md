@@ -84,7 +84,12 @@ Practice Problems <br>
    [To know more about bit manipulation](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)<br>
 6. [Leetcode Problem 771 - Jewels and Stones <b>(Medium)</b>](https://leetcode.com/problems/jewels-and-stones/)<br>
    Can be solved simply with arrays also<br>
-7. 
+
+Binary Search <br>
+Practice Problems <br>
+1. [Leetcode Problem 69 - Sqrt(x) <b>(Easy)</b>](https://leetcode.com/problems/sqrtx/)<br>
+2. [Leetcode Problem 374 - Guess Number Higher or Lower<b>(Easy)</b>](https://leetcode.com/problems/guess-number-higher-or-lower/)<br>
+3. 
 
 Dynamic Programming
 Conceptual Resources <br>
