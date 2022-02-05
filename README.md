@@ -88,8 +88,12 @@ Practice Problems <br>
 Binary Search <br>
 Practice Problems <br>
 1. [Leetcode Problem 69 - Sqrt(x) <b>(Easy)</b>](https://leetcode.com/problems/sqrtx/)<br>
-2. [Leetcode Problem 374 - Guess Number Higher or Lower<b>(Easy)</b>](https://leetcode.com/problems/guess-number-higher-or-lower/)<br>
-3. 
+2. [Leetcode Problem 374 - Guess Number Higher or Lower <b>(Easy)</b>](https://leetcode.com/problems/guess-number-higher-or-lower/)<br>
+3. [Leetcode Problem 33 - Search in Rotated Sorted Array <b>(Medium)</b>](https://leetcode.com/problems/search-in-rotated-sorted-array/)<br>
+4. [Leetcode Problem 278 - First Bad Version <b>(Medium)</b>](https://leetcode.com/problems/first-bad-version/)<br>
+5. [Leetcode Problem 162 - Find Peak Element <b>(Medium)</b>](https://leetcode.com/problems/find-peak-element/)<br>
+6. [Leetcode Problem 153 - Find Minimum in Rotated Sorted Array <b>(Medium)</b>](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)<br>
+7. 
 
 Dynamic Programming
 Conceptual Resources <br>
