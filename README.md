@@ -7,6 +7,15 @@ Data Structures (General) <br>
 Conceptual Resources <br>
 1. [When to use immutable data structures?](https://xiaoyunyang.github.io/post/when-to-use-immutable-data-structures/)
 
+Leetcode Problems solved <br>
+| Problem Number and Name | Related Concepts | Difficulty | Last Solved |
+| :-----------------------: | :----------------: | :-----------: | :-----------: |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/) | `Arrays` `Binary Search` | Easy | June 25, 2022 |
+| [235. First Bad Version](https://leetcode.com/problems/first-bad-version/) | `Binary Search` | Easy | June 25, 2022 |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Arrays` `Binary Search` | Easy | June 25, 2022 |
+
+<!--
+
 Arrays <br>
 Practice Problems <br>
 1. [Leetcode Problem 485 - Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) <br>
@@ -100,3 +109,5 @@ Conceptual Resources <br>
 
 Practice Problems <br>
 1. [Leetcode Problem 1770 - Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) 
+
+--->
