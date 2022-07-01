@@ -15,6 +15,10 @@ Leetcode Problems solved <br>
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Arrays` `Binary Search` | Easy | June 25, 2022 |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | `Arrays` `Two Pointers` `Sorting` | Easy | June 26, 2022 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | `Arrays` `Two Pointers` | Medium | June 26, 2022 |
+| [283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | `Arrays` `Two Pointers` | Easy | June 27, 2022 |
+| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | `Arrays` `Binary Search` `Two Pointers` | Medium | June 28, 2022 |
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/) | `Two Pointers` `Recursion` `Strings` | Easy | June 28, 2022 |
+
 
 <!--
 
