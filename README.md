@@ -18,6 +18,16 @@ Leetcode Problems solved <br>
 | [283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | `Arrays` `Two Pointers` | Easy | June 27, 2022 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | `Arrays` `Binary Search` `Two Pointers` | Medium | June 28, 2022 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | `Two Pointers` `Recursion` `Strings` | Easy | June 28, 2022 |
+| [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | `Two Pointers` `Strings` | Easy | July 03, 2022 |
+| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Two Pointers` `Linked Lists` | Easy | July 03, 2022 |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `Linked Lists` `Two Pointers` | Medium | July 03, 2022 | 
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Strings` `Hash Table` `Sliding Window` | Medium | July 03, 2022 |
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Strings` `Hash Table` `Sliding Window` `Two Pointers` | Medium | July 03, 2022 | 
+| [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | `Arrays` `DFS` `BFS` `Matrix` | Easy | July 03, 2022 |
+| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | `Arrays` `DFS` `BFS` `Union Find` `Matrix` | Medium | July 03, 2022 |
+| [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | `Binary Tree` `Tree` `DFS` `BFS` | Easy | July 03, 2022 |
+| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | `Binary Tree` `Tree` `DFS` `BFS` `Linked List` | Medium | July 03, 2022 |
+| [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | `Arrays` `DP` `BFS` `Matrix` | Medium | July 03, 2022 |
 
 
 <!--
