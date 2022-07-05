@@ -28,6 +28,11 @@ Leetcode Problems solved <br>
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | `Binary Tree` `Tree` `DFS` `BFS` | Easy | July 03, 2022 |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | `Binary Tree` `Tree` `DFS` `BFS` `Linked List` | Medium | July 03, 2022 |
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | `Arrays` `DP` `BFS` `Matrix` | Medium | July 03, 2022 |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | `Linked Lists` `Recursion` | Easy | July 04, 2022 |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `Linked Lists` `Recursion` | Easy | July 04, 2022 |
+| [77. Combinations](https://leetcode.com/problems/combinations/) | `Backtracking` | Medium | July 04, 2022 |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | `Backtracking` | Medium | July 04, 2022 |
+| [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | `Backtracking` `String` `Bit Manipulation` | Medium | July 04, 2022 |
 
 
 <!--
