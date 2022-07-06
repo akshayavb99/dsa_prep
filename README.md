@@ -33,6 +33,8 @@ Leetcode Problems solved <br>
 | [77. Combinations](https://leetcode.com/problems/combinations/) | `Backtracking` | Medium | July 04, 2022 |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | `Backtracking` | Medium | July 04, 2022 |
 | [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | `Backtracking` `String` `Bit Manipulation` | Medium | July 04, 2022 |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Backtracking` `Memoization` `DP` | Easy | July 05, 2022 |
+| [198. House Robber](https://leetcode.com/problems/house-robber/) | `Backtracking` `Memoization` `DP` | Medium | July 05, 2022 |
 
 
 <!--
