@@ -35,6 +35,9 @@ Leetcode Problems solved <br>
 | [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | `Backtracking` `String` `Bit Manipulation` | Medium | July 04, 2022 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Backtracking` `Memoization` `DP` | Easy | July 05, 2022 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | `Backtracking` `Memoization` `DP` | Medium | July 05, 2022 |
+| [231. Power of Two](https://leetcode.com/problems/power-of-two/) | `Recursion` `Bit Manipulation` `Maths` | Easy | July 07, 2022 |
+| [120. Triangle](https://leetcode.com/problems/triangle/) | `Arrays` `DP` | Medium | July 07, 2022 |
+| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | `Bit Manipulation` `Divide and Conquer` | Easy | July 07, 2022 |
 
 
 <!--
