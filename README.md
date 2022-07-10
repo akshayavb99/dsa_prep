@@ -38,6 +38,9 @@ Leetcode Problems solved <br>
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | `Recursion` `Bit Manipulation` `Maths` | Easy | July 07, 2022 |
 | [120. Triangle](https://leetcode.com/problems/triangle/) | `Arrays` `DP` | Medium | July 07, 2022 |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | `Bit Manipulation` `Divide and Conquer` | Easy | July 07, 2022 |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | `Arrays` `BFS` `Matrix` | Medium | July 10, 2022 |
+| [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | `Bit Manipulation` `Divide and Conquer` | Easy | July 10, 2022 |
+| [136. Single Number](https://leetcode.com/problems/single-number/) | `Bit Manipulation` `Arrays` | Easy | July 10, 2022 |
 
 
 <!--
