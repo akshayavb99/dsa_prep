@@ -41,6 +41,7 @@ Leetcode Problems solved <br>
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | `Arrays` `BFS` `Matrix` | Medium | July 10, 2022 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | `Bit Manipulation` `Divide and Conquer` | Easy | July 10, 2022 |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | `Bit Manipulation` `Arrays` | Easy | July 10, 2022 |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `Arrays` `Binary Search` | Medium | July 10, 2022 |
 
 
 <!--
