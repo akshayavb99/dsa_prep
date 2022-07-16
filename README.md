@@ -42,6 +42,11 @@ Leetcode Problems solved <br>
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | `Bit Manipulation` `Divide and Conquer` | Easy | July 10, 2022 |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | `Bit Manipulation` `Arrays` | Easy | July 10, 2022 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `Arrays` `Binary Search` | Medium | July 10, 2022 |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | `Arrays` `Binary Search` | Medium | July 12, 2022 |
+| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | `Matrix` `Binary Search` `Arrays` | Medium | July 12, 2022 |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | `Arrays` `Binary Search` | Medium | July 14, 2022 |
+| [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | `Arrays` `Binary Search` | Medium | July 14, 2022 |
+| [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | `Linked Lists` `Two Pointers` | Medum | July 15, 2022 |
 
 
 <!--
