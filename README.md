@@ -50,7 +50,7 @@ Leetcode Problems solved <br>
 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | `Arrays` `Sliding Window` | Medium | July 21, 2022 |
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | `Binary Tree` `Binary Search Tree` `Tree` `Array` `Divide and Conquer` | Easy | July 21, 2022 |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | `Tree` `DFS` `Binary Tree` | Easy | July 21, 2022 |
-
+| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | `Tree` `Binary Tree` `DFS` `BFS` | Easy | July 21, 2022 |
 
 
 <!--
