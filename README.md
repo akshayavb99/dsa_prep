@@ -47,6 +47,10 @@ Leetcode Problems solved <br>
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | `Arrays` `Binary Search` | Medium | July 14, 2022 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | `Arrays` `Binary Search` | Medium | July 14, 2022 |
 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | `Linked Lists` `Two Pointers` | Medum | July 15, 2022 |
+| [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | `Arrays` `Sliding Window` | Medium | July 21, 2022 |
+| [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | `Binary Tree` `Binary Search Tree` `Tree` `Array` `Divide and Conquer` | Easy | July 21, 2022 |
+| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | `Tree` `DFS` `Binary Tree` | Easy | July 21, 2022 |
+
 
 
 <!--
@@ -85,7 +89,6 @@ Practice Problems <br>
     <b>Related questions - 3Sum, 3Sum Smaller</b><br>
 25. [Leetcode Problem 56 - Merge Intervals <b>(Medium)</b>](https://leetcode.com/problems/merge-intervals/)<br>
 26. [Leetcode Problem 79 - Word Search <b>(Medium)</b>](https://leetcode.com/problems/word-search/)</br>
-27. 
 
 Strings <br>
 Practice Problems <br>
