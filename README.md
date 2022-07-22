@@ -51,6 +51,10 @@ Leetcode Problems solved <br>
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | `Binary Tree` `Binary Search Tree` `Tree` `Array` `Divide and Conquer` | Easy | July 21, 2022 |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | `Tree` `DFS` `Binary Tree` | Easy | July 21, 2022 |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | `Tree` `Binary Tree` `DFS` `BFS` | Easy | July 21, 2022 |
+| [86. Partition List](https://leetcode.com/problems/partition-list/) | `Linked Lists` `Two Pointers` | Medium | July 22, 2022 |
+| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | `Two Pointers` `Strings` `Greedy` | Easy | July 22, 2022 |
+| [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | `Two Pointers` `Strings` | Easy | July 22, 2022 |
+
 
 
 <!--
