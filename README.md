@@ -54,6 +54,9 @@ Leetcode Problems solved <br>
 | [86. Partition List](https://leetcode.com/problems/partition-list/) | `Linked Lists` `Two Pointers` | Medium | July 22, 2022 |
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | `Two Pointers` `Strings` `Greedy` | Easy | July 22, 2022 |
 | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | `Two Pointers` `Strings` | Easy | July 22, 2022 |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Arrays` `Hash Table` `Sorting` | Easy | July 25, 2022 |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Hash Table` `Strings` `Sorting` | Easy | July 25,2022 |
+
 
 
 
