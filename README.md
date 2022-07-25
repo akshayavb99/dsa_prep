@@ -56,6 +56,8 @@ Leetcode Problems solved <br>
 | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | `Two Pointers` `Strings` | Easy | July 22, 2022 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Arrays` `Hash Table` `Sorting` | Easy | July 25, 2022 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Hash Table` `Strings` `Sorting` | Easy | July 25,2022 |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `Arrays` `Hash Table` `Strings` `Sorting` | Medium | July 25, 2022 |
+
 
 
 
