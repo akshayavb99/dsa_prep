@@ -57,6 +57,10 @@ Leetcode Problems solved <br>
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Arrays` `Hash Table` `Sorting` | Easy | July 25, 2022 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Hash Table` `Strings` `Sorting` | Easy | July 25,2022 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `Arrays` `Hash Table` `Strings` `Sorting` | Medium | July 25, 2022 |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | `Trees` `DFS` `Binary Trees` | Medium | July 26, 2022 |
+| [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | `Maths` | Easy | July 26, 2022 |
+| [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | `Arrays` `Hash Tables` | Easy | July 26, 2022 |
+| [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | `Binary Search Tree` `DFS` `Tree` `Binary Tree` | Easy | July 26, 2022 |
 
 
 
