@@ -61,6 +61,7 @@ Leetcode Problems solved <br>
 | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | `Maths` | Easy | July 26, 2022 |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | `Arrays` `Hash Tables` | Easy | July 26, 2022 |
 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | `Binary Search Tree` `DFS` `Tree` `Binary Tree` | Easy | July 26, 2022 |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `Arrays` `Divide and Conquer` `Sorting` `Heap` `Priority Queue` `Quick Sort` `Bucket Sort` `Counting` `Hash Table`| Medium | August 10, 2022 |
 
 
 
