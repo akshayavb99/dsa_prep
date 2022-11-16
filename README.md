@@ -8,8 +8,18 @@ Conceptual Resources <br>
 1. [When to use immutable data structures?](https://xiaoyunyang.github.io/post/when-to-use-immutable-data-structures/)
 
 Leetcode Problems solved <br>
+
+<!--
 | Problem Number and Name | Related Concepts | Difficulty | Last Solved |
 | :-----------------------: | :----------------: | :-----------: | :-----------: |
+
+--->
+
+| Problem Number and Name | Difficulty | Last Solved |
+| :-----------------------: | :-----------: | :-----------: |
+| [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | Medium | November 16, 2022 |
+
+<!--
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | `Arrays` `Binary Search` | Easy | June 25, 2022 |
 | [235. First Bad Version](https://leetcode.com/problems/first-bad-version/) | `Binary Search` | Easy | June 25, 2022 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Arrays` `Binary Search` | Easy | June 25, 2022 |
@@ -63,7 +73,7 @@ Leetcode Problems solved <br>
 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | `Binary Search Tree` `DFS` `Tree` `Binary Tree` | Easy | July 26, 2022 |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `Arrays` `Divide and Conquer` `Sorting` `Heap` `Priority Queue` `Quick Sort` `Bucket Sort` `Counting` `Hash Table`| Medium | August 10, 2022 |
 
-
+--->
 
 
 
