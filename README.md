@@ -18,6 +18,8 @@ Leetcode Problems solved <br>
 | Problem Number and Name | Difficulty | Last Solved |
 | :-----------------------: | :-----------: | :-----------: |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | Medium | November 16, 2022 |
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | Easy | November 16, 2022 |
+| [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | Medium | November 16, 2022 |
 
 <!--
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | `Arrays` `Binary Search` | Easy | June 25, 2022 |
